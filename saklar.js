@@ -14,7 +14,6 @@ function saklar(action, lamp) {
         else { 
             lampu1.src = "assets/images/off.gif";
         }
-        
     if (toggle2.checked) {
         lampu2.src = "assets/images/on.gif"
         }
@@ -26,7 +25,7 @@ function saklar(action, lamp) {
         }
         else { 
             lampu3.src = "assets/images/off.gif";
-        }
+    }
  }
 
 
